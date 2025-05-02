@@ -35,7 +35,7 @@ git clone <repository_url>
 ### Step 2: Install Dependencies
 
 ```bash
-pip3 install -r requirements.txt
+pip3 install 
 ```
 
 ### Step 3: Run the Application
