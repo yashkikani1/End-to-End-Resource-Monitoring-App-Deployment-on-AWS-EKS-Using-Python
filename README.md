@@ -16,11 +16,11 @@
 
 Make sure you have the following before starting:
 
-* [x] AWS Account
-* [x] AWS CLI configured with programmatic access
-* [x] Python 3 installed
-* [x] Docker and `kubectl` installed
-* [x] Code editor (e.g., VS Code)
+✅ AWS Account
+✅ AWS CLI configured with programmatic access
+✅ Python 3 installed
+✅ Docker and `kubectl` installed
+✅ Code editor (e.g., VS Code)
 
 ✨ Let’s Start the Project
 
